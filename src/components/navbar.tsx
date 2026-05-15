@@ -11,9 +11,11 @@ export function Navbar() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <h1 className="font-orbitron text-xl font-bold text-white">
-              Synapse<span className="text-red-500">AI</span>
-            </h1>
+            <img
+              src="https://cdn.poehali.dev/files/ad40a2c6-4565-4543-bae0-ef3129ed4108.jpg"
+              alt="Молодёжный театр Творческая Мастерская"
+              className="h-10 w-auto logo-shimmer"
+            />
           </div>
 
           {/* Desktop Navigation */}
