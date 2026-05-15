@@ -12,7 +12,7 @@ export function Navbar() {
           {/* Logo */}
           <div className="flex-shrink-0">
             <img
-              src="https://cdn.poehali.dev/files/ad40a2c6-4565-4543-bae0-ef3129ed4108.jpg"
+              src="https://cdn.poehali.dev/projects/894afbad-9f83-4a9c-8472-f5b9d1d7ec25/bucket/fdc18dd3-977d-4f02-9478-5fd4454e1f31.jpg"
               alt="Молодёжный театр Творческая Мастерская"
               className="h-10 w-auto logo-shimmer"
             />

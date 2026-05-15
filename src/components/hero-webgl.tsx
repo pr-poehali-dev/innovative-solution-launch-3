@@ -148,7 +148,7 @@ export const Hero3DWebGL = () => {
       <div className="h-screen items-center w-full absolute z-[60] pointer-events-none px-10 flex justify-center flex-col gap-6">
         <div className="fade-in hero-logo-wrap">
           <img
-            src="https://cdn.poehali.dev/files/ad40a2c6-4565-4543-bae0-ef3129ed4108.jpg"
+            src="https://cdn.poehali.dev/projects/894afbad-9f83-4a9c-8472-f5b9d1d7ec25/bucket/fdc18dd3-977d-4f02-9478-5fd4454e1f31.jpg"
             alt="Молодёжный театр Творческая Мастерская"
             className="hero-logo-shimmer"
           />
